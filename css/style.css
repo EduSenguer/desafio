@@ -1,0 +1,26 @@
+.header {
+    background-color: #b8c6db;
+    background-image: linear-gradient(315deg, #b8c6db 0%, #f5f7fa 74%);
+    text-align: center;
+}
+.nav {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.nav__list {
+    display: flex;
+    list-style: none;
+}
+.nav__link {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.footer {
+    text-align: center;
+    background-color: #537895;
+    background-image: linear-gradient(315deg, #537895 0%, #09203f 74%);
+}
+.footer__copyright {
+    color: whitesmoke;
+}
